@@ -1,0 +1,26 @@
+Q 1 .
+a. Draw block diagram /pin diagram of Raspberry-Pi/ Beagle board /Arduino Uno board interfacing with IR Sensor/TemperatureSensor/Camera.
+     (Internal Examiner assign any one option for board and interface device and respective interface programming option).
+
+b. WAP in python/C++ language to blink LED.
+c. Write down the observations on Input and Output.
+d. Write down the Result and Conclusion.
+
+
+
+Q 2 .
+a. Draw block diagram /pin diagram of Raspberry-Pi/ Beagle board/Arduino Uno board interfacing with IR Sensor/TemperatureSensor/Camera.
+     (Internal Examiner assign any one option for board and interface device and respective interface programming option).
+
+b. WAP in python/C++ language to turn ON/OFF buzzer.
+c. Write down the observations on Input and Output.
+d. Write down the Result and Conclusion.
+
+
+Q 3 .
+a. Draw block diagram /pin diagram of Raspberry-Pi/ Beagle board/Arduino Uno board interfacing with IR Sensor/TemperatureSensor/Camera.
+    (Internal Examiner assign any one option for board and interface device and respective interface programming option).
+
+b. WAP in python/C++ language to toggle two LED’s.
+c. Write down the observations on Input and Output.
+d. Write down the Result and Conclusion.
