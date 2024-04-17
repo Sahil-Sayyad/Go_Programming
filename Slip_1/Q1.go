@@ -1,3 +1,7 @@
+/*
+	Q1. A) Write a program in GO language to accept user choice and print answers
+		   using arithmetic operators.
+*/
 package main
 
 import "fmt"
