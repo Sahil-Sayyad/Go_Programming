@@ -27,22 +27,22 @@ func main() {
 		fmt.Scan(&num1)
 		fmt.Println("Enter Number 2")
 		fmt.Scan(&num2)
-		var add = num1 + num2
-		fmt.Println("Addition of two numbers :  ", add)
+		var sub = num1 - num2
+		fmt.Println("Subtraction of two numbers :  ", sub)
 	case 3:
 		fmt.Println("Enter Number 1 ")
 		fmt.Scan(&num1)
 		fmt.Println("Enter Number 2")
 		fmt.Scan(&num2)
-		var add = num1 + num2
-		fmt.Println("Addition of two numbers :  ", add)
+		var div = num1 / num2
+		fmt.Println("Division of two numbers :  ", div)
 	case 4:
 		fmt.Println("Enter Number 1 ")
 		fmt.Scan(&num1)
 		fmt.Println("Enter Number 2")
 		fmt.Scan(&num2)
-		var add = num1 + num2
-		fmt.Println("Addition of two numbers :  ", add)
+		var multi = num1 * num2
+		fmt.Println("Multiplication of two numbers :  ", multi)
 	default:
 		fmt.Println("Error")
 
