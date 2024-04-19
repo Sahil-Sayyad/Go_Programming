@@ -8,7 +8,7 @@
 
 
 
-# b.  WAP in python/C++ language to blink LED.
+# b.  WAP in python language to blink LED.
 
 import RPi.GPIO as GPIO # type: ignore # Import Respberry Pi GPIO library
 import time             #Import time module

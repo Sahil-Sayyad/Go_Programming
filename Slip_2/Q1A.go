@@ -17,7 +17,7 @@ func main(){
 	fmt.Print(a)
 	fmt.Print(" ",b)
 	
-	for i:=2;i<=n;i++ {
+	for i:=2;i< n;i++ {
 
 		fib = a+b
 		a = b
